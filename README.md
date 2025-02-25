@@ -4,3 +4,8 @@
 ```
 php -S 127.0.0.1:8008 -t ./public/
 ```
+
+### install
+```
+composer install
+```
