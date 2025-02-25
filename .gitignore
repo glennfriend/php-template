@@ -1,0 +1,15 @@
+/.vscode
+/node_modules
+/public/storage
+/vendor
+/.idea
+/log
+/report
+.env
+.phpunit.result.cache
+.php-cs-fixer.cache
+.phpstorm.meta.php
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
